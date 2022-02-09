@@ -1,4 +1,4 @@
-# TREE Free code camp 8/02/2022
+# Mriganka's Implementation of problems related to tree data structures
 from math import inf
 class tree:
     def __init__(self, val = 0, left = None, right = None):
